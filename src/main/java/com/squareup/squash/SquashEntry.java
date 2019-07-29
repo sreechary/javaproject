@@ -82,7 +82,7 @@ public class SquashEntry {
     } else if (logMessage != null) {
       message = logMessage;
     } else {
-      message = "No message";
+      message = "No msg";
     }
     return message;
   }
